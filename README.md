@@ -1,5 +1,9 @@
 ## Verified to work in Release
+This project was derived from the flask project in [awesome-compose](https://github.com/docker/awesome-compose)
+
 No modifications were necessary for this project to run in Release.
+
+To make this project run in [Release](https://releaseapp.io), simply create a new application with this repository.
 
 ## Compose sample application
 ### Python/Flask application
